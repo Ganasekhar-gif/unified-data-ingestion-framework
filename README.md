@@ -1,7 +1,7 @@
 # Unified Data Ingestion Layer
 
-GitHub Repository: [https://github.com/Ganasekhar-gif/unified-data-ingestion-framework.git](https://github.com/Ganasekhar-gif/unified-data-ingestion-framework.git)
-Architecture diagram: [https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f](https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f)
+GitHub Repository: [https://github.com/Ganasekhar-gif/unified-data-ingestion-framework.git](https://github.com/Ganasekhar-gif/unified-data-ingestion-framework.git)                                                  
+Architecture diagram: [https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f](https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f)                 
 
 for details of architecture workflow please refer to: [architecture.md](architecture.md)
 
