@@ -5,7 +5,7 @@ GitHub Repository: [https://github.com/Ganasekhar-gif/unified-data-ingestion-fra
 
 Architecture diagram: [https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f](https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f)                 
 
-for details of architecture workflow please refer to: [architecture.md](architecture.md)
+for details of architecture workflow please refer to: [docs/architecture.md](docs/architecture.md)
 
 ## Overview
 
