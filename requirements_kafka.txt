@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+prometheus-client==0.14.1
+psycopg2-binary==2.9.6
+elasticsearch==8.3.3
+boto3==1.24.4
+jsonschema==4.7.2
+loguru==0.6.0

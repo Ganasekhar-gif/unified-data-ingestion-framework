@@ -1,0 +1,1100 @@
+2025-04-30 13:00:10,637 [INFO] This is an info message
+2025-04-30 13:00:10,637 [WARNING] This is a warning message
+2025-04-30 13:00:10,638 [ERROR] This is an error message
+2025-04-30 13:00:10,638 [CRITICAL] This is a critical message
+2025-05-02 15:42:21,844 [INFO] Prometheus metrics server started on port 8000
+2025-05-02 15:42:21,848 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 15:42:22,211 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-02 15:42:22,212 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 15:42:22,213 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 15:42:22,214 [INFO] Kafka consumer started and listening...
+2025-05-02 15:42:26,077 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:26,078 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:26,078 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:26,079 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:28,791 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:28,791 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:28,791 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:28,792 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:31,604 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:31,605 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:31,605 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:31,605 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:34,311 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:34,311 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:34,311 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:34,311 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:37,105 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:37,105 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:37,106 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:37,107 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:39,807 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:39,808 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:39,808 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:39,808 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:42,594 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:42,594 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:42,594 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:42,594 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:46,116 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:46,116 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:46,117 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:46,117 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:42:52,559 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:42:52,559 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:42:52,560 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:42:52,560 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:43:04,516 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:43:04,517 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:43:04,517 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:43:04,518 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:43:34,119 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:43:34,119 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:43:34,120 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:43:34,120 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 15:44:05,040 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 15:44:05,040 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 15:44:05,041 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 15:44:05,041 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:29:56,008 [INFO] Prometheus metrics server started on port 8000
+2025-05-02 17:29:56,013 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 17:30:57,098 [INFO] Prometheus metrics server started on port 8000
+2025-05-02 17:30:57,105 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 17:30:57,215 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-02 17:30:57,215 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 17:30:57,216 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 17:30:57,217 [INFO] Kafka consumer started and listening...
+2025-05-02 17:31:00,387 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:00,388 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:00,388 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:00,388 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:03,081 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:03,081 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:03,081 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:03,081 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:05,867 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:05,867 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:05,868 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:05,868 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:08,563 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:08,563 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:08,563 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:08,563 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:11,362 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:11,362 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:11,363 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:11,363 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:14,059 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:14,059 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:14,059 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:14,060 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:16,867 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:16,868 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:16,868 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:16,868 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:20,214 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:20,214 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:20,214 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:20,214 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:26,896 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:26,897 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:26,897 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:26,897 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:31:39,972 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:31:39,973 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:31:39,973 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:31:39,974 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:32:01,974 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:32:01,974 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:32:01,974 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:32:01,975 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:32:33,267 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:32:33,267 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:32:33,267 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:32:33,267 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 17:33:02,264 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 17:33:02,264 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 17:33:02,265 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 17:33:02,265 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:12,496 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:10:12,575 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-02 19:10:12,575 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:10:12,576 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 19:10:15,733 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:15,740 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:15,740 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:15,741 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:18,430 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:18,433 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:18,433 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:18,433 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:21,223 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:21,223 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:21,224 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:21,224 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:23,929 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:23,929 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:23,929 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:23,930 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:26,717 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:26,717 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:26,717 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:26,717 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:29,425 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:29,425 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:29,426 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:29,426 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:32,220 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:32,220 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:32,221 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:32,221 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:35,999 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:36,001 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:36,001 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:36,001 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:10:41,469 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:10:41,469 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:10:41,469 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:10:41,469 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:38,254 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:13:39,866 [WARNING] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]> timed out after 1599.9999046325684 ms. Closing connection.
+2025-05-02 19:13:39,867 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 1599.9999046325684 ms
+2025-05-02 19:13:39,868 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-02 19:13:39,893 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9092)]>: Broker version identified as 0.9
+2025-05-02 19:13:39,893 [INFO] Set configuration api_version=(0, 9) to skip auto check_version requests on startup
+2025-05-02 19:13:39,894 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2025-05-02 19:13:39,895 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 19:13:43,488 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:43,489 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:43,490 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:43,490 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:46,192 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:46,192 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:46,192 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:46,193 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:49,185 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:49,186 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:49,186 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:49,186 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:51,880 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:51,881 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:51,881 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:51,881 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:54,690 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:54,690 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:54,691 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:54,691 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:13:57,387 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:13:57,388 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:13:57,388 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:13:57,388 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:14:00,171 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:14:00,172 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:14:00,172 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:14:00,172 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:26,247 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:17:27,852 [WARNING] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]> timed out after 1599.9999046325684 ms. Closing connection.
+2025-05-02 19:17:27,853 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 1599.9999046325684 ms
+2025-05-02 19:17:27,854 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-02 19:17:27,907 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9092)]>: Broker version identified as 0.9
+2025-05-02 19:17:27,907 [INFO] Set configuration api_version=(0, 9) to skip auto check_version requests on startup
+2025-05-02 19:17:27,907 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2025-05-02 19:17:27,908 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 19:17:31,227 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:31,228 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:31,228 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:31,229 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:33,930 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:33,930 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:33,931 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:33,931 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:36,731 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:36,732 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:36,732 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:36,732 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:39,431 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:39,432 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:39,432 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:39,432 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:42,231 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:42,232 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:42,232 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:42,233 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:44,937 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:44,937 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:44,938 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:44,938 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:47,730 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:47,730 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:47,730 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:47,731 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:50,619 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:50,620 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:50,620 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:50,621 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:17:56,808 [WARNING] DNS lookup failed for kafka:9092, exception was [Errno 11001] getaddrinfo failed. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+2025-05-02 19:17:56,808 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: DNS lookup failed for kafka:9092 (0)
+2025-05-02 19:17:56,808 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=kafka:9092 <connecting> [unspecified None]>: Closing connection. KafkaConnectionError: DNS failure
+2025-05-02 19:17:56,809 [WARNING] Node 1 connection failed -- refreshing metadata
+2025-05-02 19:21:45,957 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:21:47,572 [WARNING] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]> timed out after 1599.9999046325684 ms. Closing connection.
+2025-05-02 19:21:47,572 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 1599.9999046325684 ms
+2025-05-02 19:21:47,573 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-02 19:21:47,600 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9092)]>: Broker version identified as 0.9
+2025-05-02 19:21:47,600 [INFO] Set configuration api_version=(0, 9) to skip auto check_version requests on startup
+2025-05-02 19:21:47,601 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2025-05-02 19:21:47,602 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 19:21:48,217 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:21:48,218 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:21:48,219 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2025-05-02 19:21:49,595 [INFO] Coordinator for group/medplat-group is BrokerMetadata(nodeId='coordinator-1', host='localhost', port=9092, rack=None)
+2025-05-02 19:21:49,596 [INFO] Discovered coordinator coordinator-1 for group medplat-group
+2025-05-02 19:21:49,596 [INFO] Starting new heartbeat thread
+2025-05-02 19:21:49,597 [INFO] Revoking previously assigned partitions set() for group medplat-group
+2025-05-02 19:21:49,599 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:21:49,599 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:21:49,700 [INFO] (Re-)joining group medplat-group
+2025-05-02 19:22:19,615 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Error receiving network data closing socket
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\kafka\conn.py", line 1148, in _recv
+    data = self._sock.recv(self.config['sock_chunk_bytes'])
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-02 19:22:19,619 [ERROR] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-02 19:22:19,620 [ERROR] Error sending JoinGroupRequest_v0 to node coordinator-1 [KafkaConnectionError: [WinError 10054] An existing connection was forcibly closed by the remote host]
+2025-05-02 19:22:19,620 [WARNING] Marking the coordinator dead (node coordinator-1) for group medplat-group: KafkaConnectionError: [WinError 10054] An existing connection was forcibly closed by the remote host.
+2025-05-02 19:22:19,728 [INFO] Coordinator for group/medplat-group is BrokerMetadata(nodeId='coordinator-1', host='localhost', port=9092, rack=None)
+2025-05-02 19:22:19,729 [INFO] Discovered coordinator coordinator-1 for group medplat-group
+2025-05-02 19:22:19,729 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-02 19:22:19,730 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2025-05-02 19:22:19,831 [INFO] (Re-)joining group medplat-group
+2025-05-02 19:22:22,920 [INFO] Elected group leader -- performing partition assignments using range
+2025-05-02 19:22:23,073 [INFO] Successfully joined group medplat-group with generation 1
+2025-05-02 19:22:23,074 [INFO] Updated partition assignment: [TopicPartition(topic='health-data', partition=0)]
+2025-05-02 19:22:23,075 [INFO] Setting newly assigned partitions {TopicPartition(topic='health-data', partition=0)} for group medplat-group
+2025-05-02 19:22:23,153 [INFO] Resetting offset for partition TopicPartition(topic='health-data', partition=0) to offset 0.
+2025-05-02 19:23:17,497 [INFO] Stopping heartbeat thread
+2025-05-02 19:23:20,509 [WARNING] Heartbeat thread did not fully terminate during close
+2025-05-02 19:25:17,623 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:25:17,656 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-02 19:25:17,656 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:25:17,657 [INFO] Updating subscribed topics to: ('health-data',)
+2025-05-02 19:25:17,663 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:25:17,664 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:25:17,665 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-02 19:25:17,770 [INFO] Coordinator for group/medplat-group is BrokerMetadata(nodeId='coordinator-1', host='localhost', port=9092, rack=None)
+2025-05-02 19:25:17,771 [INFO] Discovered coordinator coordinator-1 for group medplat-group
+2025-05-02 19:25:17,771 [INFO] Starting new heartbeat thread
+2025-05-02 19:25:17,773 [INFO] Revoking previously assigned partitions set() for group medplat-group
+2025-05-02 19:25:17,775 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-02 19:25:17,776 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-02 19:25:17,878 [INFO] (Re-)joining group medplat-group
+2025-05-02 19:25:17,886 [INFO] (Re-)joining group medplat-group
+2025-05-02 19:25:20,896 [INFO] Elected group leader -- performing partition assignments using range
+2025-05-02 19:25:20,903 [INFO] Successfully joined group medplat-group with generation 3
+2025-05-02 19:25:20,903 [INFO] Updated partition assignment: [TopicPartition(topic='health-data', partition=0)]
+2025-05-02 19:25:20,904 [INFO] Setting newly assigned partitions {TopicPartition(topic='health-data', partition=0)} for group medplat-group
+2025-05-02 19:26:20,839 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.567s]
+2025-05-02 19:26:53,027 [INFO] Successfully uploaded data to S3: 93a06c01-026d-47bf-8114-e1d6b94e98ab.json
+2025-05-02 19:26:53,027 [INFO] Processed message: {'patient_id': 'P001', 'age': 30, 'diagnosis': 'Diabetes'}
+2025-05-02 19:26:53,142 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.029s]
+2025-05-02 19:26:53,184 [INFO] Successfully uploaded data to S3: e43ead3a-a712-4799-aae7-131085a5528a.json
+2025-05-02 19:26:53,186 [INFO] Processed message: {'patient_id': 'P002', 'age': 45, 'diagnosis': 'Hypertension'}
+2025-05-02 19:26:53,322 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.064s]
+2025-05-02 19:26:53,381 [INFO] Successfully uploaded data to S3: 22b76324-99bf-410a-ad1e-3c872f7fe752.json
+2025-05-02 19:26:53,382 [INFO] Processed message: {'patient_id': 'P003', 'age': 29, 'diagnosis': 'Asthma'}
+2025-05-02 19:30:27,002 [INFO] Processing row: {'patient_id': 'P123', 'age': '45', 'diagnosis ': 'Diabetes '}
+2025-05-02 19:30:27,005 [WARNING] Validation failed for row: {'patient_id': 'P123', 'age': 45, 'diagnosis ': 'Diabetes '}
+2025-05-02 19:30:27,006 [INFO] Processing row: {'patient_id': 'P124', 'age': '50', 'diagnosis ': 'Hypertension '}
+2025-05-02 19:30:27,009 [WARNING] Validation failed for row: {'patient_id': 'P124', 'age': 50, 'diagnosis ': 'Hypertension '}
+2025-05-02 19:33:07,237 [INFO] Processing row: {'patient_id': 'P004', 'age': '30', 'diagnosis': 'Diabetes'}
+2025-05-02 19:33:07,486 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.138s]
+2025-05-02 19:33:08,093 [INFO] Successfully uploaded data to S3: 2fd5dc43-2338-4154-a7bd-8d10b8b82801.json
+2025-05-02 19:33:08,094 [INFO] Processing row: {'patient_id': 'P005', 'age': '45', 'diagnosis': 'Hypertension'}
+2025-05-02 19:33:08,179 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.024s]
+2025-05-02 19:33:08,218 [INFO] Successfully uploaded data to S3: 022337c0-62bc-4c01-a53c-f02e878ecfdb.json
+2025-05-02 19:33:08,218 [INFO] Processing row: {'patient_id': 'P006', 'age': '29', 'diagnosis': 'Asthma'}
+2025-05-02 19:33:08,346 [INFO] POST http://localhost:9200/health_data/_doc [status:201 duration:0.065s]
+2025-05-02 19:33:08,388 [INFO] Successfully uploaded data to S3: 8f318c1f-805d-492f-aa24-720dc837d4f2.json
+2025-05-02 19:42:32,011 [INFO] Kafka consumer interrupted by user. Shutting down.
+2025-05-02 19:42:32,024 [INFO] Stopping heartbeat thread
+2025-05-02 19:42:35,040 [WARNING] Heartbeat thread did not fully terminate during close
+2025-05-02 19:42:35,043 [INFO] Leaving consumer group (medplat-group).
+2025-05-02 19:42:35,091 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-02 19:42:35,095 [INFO] <BrokerConnection client_id=kafka-python-2.2.0, node_id=coordinator-1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-04 02:09:18,254 [INFO] Processing row: {'patient_id': 'P004', 'age': '30', 'diagnosis': 'Diabetes'}
+2025-05-04 02:09:20,970 [ERROR] Error saving to PostgreSQL: could not translate host name "postgres" to address: Name or service not known
+
+2025-05-04 02:09:23,682 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.711s]
+2025-05-04 02:09:23,683 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 1 times in a row, putting on 1 second timeout
+2025-05-04 02:09:23,683 [WARNING] Retrying request after failure (attempt 0 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F6F9E270>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F6F9E270>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:09:26,567 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.699s]
+2025-05-04 02:09:26,568 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 2 times in a row, putting on 2 second timeout
+2025-05-04 02:09:26,568 [WARNING] Retrying request after failure (attempt 1 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F6FA5590>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F6FA5590>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:09:26,574 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:09:29,266 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.692s]
+2025-05-04 02:09:29,266 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 3 times in a row, putting on 4 second timeout
+2025-05-04 02:09:29,266 [WARNING] Retrying request after failure (attempt 2 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F6FA6350>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F6FA6350>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:09:29,271 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:09:31,969 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.698s]
+2025-05-04 02:09:31,970 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 4 times in a row, putting on 8 second timeout
+2025-05-04 02:09:31,970 [ERROR] Elasticsearch Error: Connection error caused by: ConnectionError(Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F6F9E270>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)))
+2025-05-04 02:09:53,729 [ERROR] Error saving to S3: Could not connect to the endpoint URL: "http://minio:9000/unified-data-store/ce26badf-4f5a-44ae-88f3-6602c059fec3.json"
+2025-05-04 02:09:53,731 [INFO] Processing row: {'patient_id': 'P005', 'age': '45', 'diagnosis': 'Hypertension'}
+2025-05-04 02:09:56,416 [ERROR] Error saving to PostgreSQL: could not translate host name "postgres" to address: Name or service not known
+
+2025-05-04 02:09:56,416 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:09:59,120 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.703s]
+2025-05-04 02:09:59,120 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 5 times in a row, putting on 16 second timeout
+2025-05-04 02:09:59,121 [WARNING] Retrying request after failure (attempt 0 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C0E8B0>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C0E8B0>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:09:59,127 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:10:01,834 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.707s]
+2025-05-04 02:10:01,834 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 6 times in a row, putting on 30 second timeout
+2025-05-04 02:10:01,834 [WARNING] Retrying request after failure (attempt 1 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C769F0>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C769F0>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:10:04,532 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.693s]
+2025-05-04 02:10:04,532 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 7 times in a row, putting on 30 second timeout
+2025-05-04 02:10:04,533 [WARNING] Retrying request after failure (attempt 2 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C7EE00>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C7EE00>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:10:07,241 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.703s]
+2025-05-04 02:10:07,241 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 8 times in a row, putting on 30 second timeout
+2025-05-04 02:10:07,241 [ERROR] Elasticsearch Error: Connection error caused by: ConnectionError(Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C0E8B0>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)))
+2025-05-04 02:10:32,024 [ERROR] Error saving to S3: Could not connect to the endpoint URL: "http://minio:9000/unified-data-store/63310e1a-4153-4dec-9a2d-53ba3ca779ab.json"
+2025-05-04 02:10:32,025 [INFO] Processing row: {'patient_id': 'P006', 'age': '29', 'diagnosis': 'Asthma'}
+2025-05-04 02:10:34,724 [ERROR] Error saving to PostgreSQL: could not translate host name "postgres" to address: Name or service not known
+
+2025-05-04 02:10:34,724 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:10:37,438 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.714s]
+2025-05-04 02:10:37,439 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 9 times in a row, putting on 30 second timeout
+2025-05-04 02:10:37,439 [WARNING] Retrying request after failure (attempt 0 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C7E250>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C7E250>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:10:37,445 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:10:40,145 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.700s]
+2025-05-04 02:10:40,146 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 10 times in a row, putting on 30 second timeout
+2025-05-04 02:10:40,146 [WARNING] Retrying request after failure (attempt 1 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C7E140>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C7E140>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:10:40,151 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:10:42,845 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.693s]
+2025-05-04 02:10:42,846 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 11 times in a row, putting on 30 second timeout
+2025-05-04 02:10:42,846 [WARNING] Retrying request after failure (attempt 2 of 3)
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+        method,
+    ...<4 lines>...
+        **kw,  # type: ignore[arg-type]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\retry.py", line 449, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPConnection object at 0x00000218F8C7DE10>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+        method,
+    ...<3 lines>...
+        request_timeout=request_timeout,
+    )
+  File "D:\unified-data-ingestion-framework\venv\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+    raise err from e
+elastic_transport.ConnectionError: Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C7DE10>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed))
+2025-05-04 02:10:42,851 [INFO] Resurrected node <Urllib3HttpNode(http://elasticsearch:9200)> (force=False)
+2025-05-04 02:10:45,557 [INFO] POST http://elasticsearch:9200/health_data/_doc [status:N/A duration:2.706s]
+2025-05-04 02:10:45,558 [WARNING] Node <Urllib3HttpNode(http://elasticsearch:9200)> has failed for 12 times in a row, putting on 30 second timeout
+2025-05-04 02:10:45,558 [ERROR] Elasticsearch Error: Connection error caused by: ConnectionError(Connection error caused by: NameResolutionError(<urllib3.connection.HTTPConnection object at 0x00000218F8C7E250>: Failed to resolve 'elasticsearch' ([Errno 11001] getaddrinfo failed)))
+2025-05-04 02:11:07,176 [ERROR] Error saving to S3: Could not connect to the endpoint URL: "http://minio:9000/unified-data-store/5711ec5d-ba26-4ab4-8368-61175c05a9f0.json"
+2025-05-04 02:11:07,176 [INFO] Ingestion complete. Holding process to keep Prometheus metrics available...

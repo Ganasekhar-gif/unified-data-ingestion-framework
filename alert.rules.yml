@@ -1,0 +1,38 @@
+groups:
+  - name: unified_ingestion_alerts
+    rules:
+      - alert: InstanceDown
+        expr: up == 0
+        for: 30s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Instance {{ $labels.instance }} is down"
+          description: "{{ $labels.instance }} has been down for more than 30 seconds."
+
+      - alert: HighValidationErrors
+        expr: increase(failed_validations_total[1m]) > 5
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High validation errors detected"
+          description: "More than 5 validation errors occurred in the past 1 minute."
+
+      - alert: IngestionFailures
+        expr: increase(ingestion_errors_total[1m]) > 3
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Frequent ingestion errors detected"
+          description: "More than 3 ingestion errors occurred in the past 1 minute."
+
+      - alert: NoIngestedData
+        expr: increase(ingested_rows_total[5m]) == 0
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "No ingested data"
+          description: "No rows were ingested in the past 5 minutes — possible upstream issue."

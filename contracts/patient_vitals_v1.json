@@ -1,1 +1,10 @@
-hi
+{
+    "type": "object",
+    "properties": {
+      "patient_id": { "type": "string" },
+      "age": { "type": "integer" },
+      "diagnosis": { "type": "string" }
+    },
+    "required": ["patient_id", "age", "diagnosis"]
+  }
+  
