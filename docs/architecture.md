@@ -3,6 +3,14 @@
 ## 📌 Project Name:
 **Unified Data Ingestion Layer**
 
+---
+
+## 📊 Architecture Diagram
+
+Refer to the [Architecture Diagram Image](https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f) for a visual representation of the system layout and data flow.
+
+---
+
 ## Architecture workflow:
 graph TD
   subgraph Producers
@@ -106,13 +114,7 @@ This system is designed to serve as a centralized and scalable data ingestion la
 - `failed_validations_total`: Count of records failing validation checks.
 - `ingestion_errors_total`: Number of ingestion processing errors.
 
----
 
-## 📊 Architecture Diagram
-
-Refer to the [Architecture Diagram Image](https://github.com/user-attachments/assets/86920eb4-7490-42c2-b73e-ab960d03410f) for a visual representation of the system layout and data flow.
-
----
 
 ## 📌 Key Design Principles
 
