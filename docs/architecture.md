@@ -12,39 +12,7 @@ Refer to the [Architecture Diagram Image](https://github.com/user-attachments/as
 ---
 
 ## Architecture workflow:
-graph TD
-  subgraph Producers
-    A1[Batch Ingestor (HTTP API)]
-    A2[Real-Time Producer (Kafka Producer)]
-  end
 
-  subgraph Kafka Layer
-    B[Kafka Topics]
-  end
-
-  subgraph Consumers
-    C[Kafka Consumer Service]
-  end
-
-  subgraph Storage Systems
-    D1[PostgreSQL]
-    D2[Elasticsearch]
-    D3[MinIO]
-  end
-
-  subgraph Monitoring
-    E1[Prometheus]
-    E2[Grafana]
-  end
-
-  A1 --> B
-  A2 --> B
-  B --> C
-  C --> D1
-  C --> D2
-  C --> D3
-  C --> E1
-  E1 --> E2
 
 
 ## 🎯 Objective:
