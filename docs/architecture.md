@@ -13,7 +13,7 @@ Refer to the [Architecture Diagram Image](https://github.com/user-attachments/as
 
 ## Architecture workflow:
 
-
+[architecture workflow image](https://github.com/user-attachments/assets/01678999-7ab5-4f32-a2b5-b91952cfffb0)
 
 ## 🎯 Objective:
 This system is designed to serve as a centralized and scalable data ingestion layer for handling **both batch and real-time data**. It facilitates seamless integration with multiple downstream storage and monitoring systems, making it easy to ingest, route, store, and monitor data with reliability and flexibility.
